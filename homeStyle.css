@@ -1,0 +1,220 @@
+#header{
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;  
+}
+#logoText{
+    color:black;
+    font-size: 400%;
+    margin-left: 1%;
+    margin-top: 1%;
+    position: absolute;
+    }
+#findusheader{
+    margin-left: 28%;
+    font-size: 200%;
+    position: absolute;
+    margin-top: 1%;
+
+}
+#conatactheader{
+    margin-left: 48%;
+    position: absolute;
+    margin-top: 2%;
+    font-size: 200%;
+
+}
+ul {
+    list-style-type: none;
+    margin-top: 2%;
+    
+    overflow: hidden;
+    background-color: rgba(198, 203, 210, 0.653);
+  }
+  
+  li {
+    float: left;
+    margin-left: 2%;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    color: #B3060A;
+  }
+  .active {
+    color: #B3060A;
+  }
+  .mySlides {display:none;}
+  
+  .dropdown {
+    position: absolute;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+ 
+
+
+ #bookline{
+    background-color:#B3060A;
+    color: white;
+    margin-top: -1%;
+    
+  }
+  #booktext{
+    
+    margin-left: 2%;
+    padding: 1%;
+    
+  }
+  #lineinput{
+    margin-left:10%;
+     font-size:125%;
+     position: absolute;
+     margin-top: -2.8%;
+  }
+  
+  .btnbook {
+   
+    float: right;
+    width: 130px;
+    height: 47px;
+    background-color: rgba(54, 45, 45, 0.734); 
+    color: white; 
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+  }
+  
+  .btnbook:hover {
+    background-color: #B3060A;
+    color:white;
+  }
+
+input[type=text],input[type=date] , input[type=time] , select {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#sidecar{
+   float: left;
+   
+
+}
+#wlcmContent{
+
+   float:center;
+  
+}
+#list{
+    margin-top:10%;
+    font-size: 20px;
+}
+.btnread{ 
+    width: 130px;
+    height: 47px;
+    background-color:#B3060A; 
+    color: white; 
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.btnread:hover {
+    background-color: rgba(61, 36, 36, 0.85);
+    color:white;
+  }
+  #tplaning{
+      float: left;
+      margin-top: 5%;
+      margin-left: -20%;
+  }
+  #btnmail {
+    margin-left: -25%;
+    margin-right: 170px;
+    margin-top:-2.4%;
+    float: right;
+    width: 130px;
+    height: 47px;
+    background-color: rgb(5, 5, 5); 
+    color: white; 
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  #btnmail:hover {
+    background-color: #B3060A;
+    color:white;
+}
+
+#addslide{
+background-color: rgba(128, 128, 128, 0.673);
+margin-top:30%;
+position: relative;
+height: 500px;
+
+}
+#footerline{
+    margin-top:10%;
+    background-color: #B3060A;
+    padding:2%;
+    height: 2%;
+    font-size: 25px;
+    color:white;
+}
+#footer{
+    background-color: rgb(0, 0, 0);
+    margin-top:-1.5%;
+    padding:5%;
+    height: 100px;
+}
+.centerDv{
+    position:absolute ;
+    text-align: center;
+    
+   
+}
+#footercontent{
+    color: white;
+   
+}
+#footercontent a{
+    color: white;
+    margin-left: 22%;
+}
+#footercontent a:hover{
+    color: #B3060A;
+    
+}
